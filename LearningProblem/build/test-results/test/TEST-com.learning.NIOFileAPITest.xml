@@ -1,7 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="com.learning.NIOFileAPITest" tests="1" skipped="0" failures="0" errors="0" timestamp="2022-04-30T07:30:17" hostname="DESKTOP-2DPSHTI" time="0.177">
+<testsuite name="com.learning.NIOFileAPITest" tests="1" skipped="0" failures="0" errors="0" timestamp="2022-04-30T07:42:07" hostname="DESKTOP-2DPSHTI" time="0.379">
   <properties/>
-  <testcase name="givenPathWhenCheckedThenConfirm()" classname="com.learning.NIOFileAPITest" time="0.177"/>
-  <system-out><![CDATA[]]></system-out>
+  <testcase name="givenPathWhenCheckedThenConfirm()" classname="com.learning.NIOFileAPITest" time="0.379"/>
+  <system-out><![CDATA[C:\Users\user\TempPlayGround\temp1
+C:\Users\user\TempPlayGround\temp2
+C:\Users\user\TempPlayGround\temp3
+C:\Users\user\TempPlayGround\temp4
+C:\Users\user\TempPlayGround\temp5
+C:\Users\user\TempPlayGround\temp6
+C:\Users\user\TempPlayGround\temp7
+C:\Users\user\TempPlayGround\temp8
+C:\Users\user\TempPlayGround\temp9
+C:\Users\user\TempPlayGround\temp1
+C:\Users\user\TempPlayGround\temp2
+C:\Users\user\TempPlayGround\temp3
+C:\Users\user\TempPlayGround\temp4
+C:\Users\user\TempPlayGround\temp5
+C:\Users\user\TempPlayGround\temp6
+C:\Users\user\TempPlayGround\temp7
+C:\Users\user\TempPlayGround\temp8
+C:\Users\user\TempPlayGround\temp9
+]]></system-out>
   <system-err><![CDATA[]]></system-err>
 </testsuite>
