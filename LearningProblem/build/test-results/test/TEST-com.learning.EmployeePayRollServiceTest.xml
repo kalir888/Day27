@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.learning.EmployeePayRollServiceTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2022-05-08T13:30:05" hostname="DESKTOP-2DPSHTI" time="0.454">
+  <properties/>
+  <testcase name="given3EmployeeWhenWrittenToFileShouldMatchEmployeeEntries()" classname="com.learning.EmployeePayRollServiceTest" time="0.454"/>
+  <system-out><![CDATA[EmployeePayRollData{employeeId=1, employeeName='Ratan Tata', employeeSalary=100000.0}
+EmployeePayRollData{employeeId=2, employeeName='Anil Ambani', employeeSalary=200000.0}
+EmployeePayRollData{employeeId=3, employeeName='Adani', employeeSalary=3000000.0}
+EmployeePayRollData{employeeId=1, employeeName='Ratan Tata', employeeSalary=100000.0}
+EmployeePayRollData{employeeId=2, employeeName='Anil Ambani', employeeSalary=200000.0}
+EmployeePayRollData{employeeId=3, employeeName='Adani', employeeSalary=3000000.0}
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
